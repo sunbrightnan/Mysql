@@ -1,3 +1,2 @@
-# Mysql
-# Mysql
-# Mysql
+# 这是我上传的第一个GitHub文件
+  数据库mysql的基本知识和一些练习题
